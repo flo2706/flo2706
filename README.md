@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 👋 Hello, je suis Floriane
 
 Ingénieure data junior, issue d’une reconversion après plusieurs années dans le secteur socio-éducatif.
 
