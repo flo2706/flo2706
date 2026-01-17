@@ -5,7 +5,8 @@ dans le secteur socio-éducatif.
 
 ## Ce que je fais
 - Conception et exploitation de pipelines de données (ETL / ELT)
-- Modélisation et structuration de données (SQL, relationnel & notions de NoSQL (OLAP))
+- Modélisation et structuration de données (SQL, relationnel, modèles analytiques / OLAP)
+- Notions de bases NoSQL
 - Traitement de données à plus grande échelle (PySpark)
 - Orchestration de pipelines (Airflow – en cours d’apprentissage)
 - Déploiement de projets data  *(Docker, Streamlit, Hugging Face, cloud – niveau junior)*
