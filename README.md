@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**flo2706/flo2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, je suis Floriane
 
-Here are some ideas to get you started:
+Ingénieure data junior, issue d’une reconversion après plusieurs années dans le secteur socio-éducatif.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais
+- Conception et exploitation de pipelines de données (ETL / ELT)
+- Modélisation et structuration de données
+- SQL et bases de données
+- Traitement de données à plus grande échelle (PySpark)
+- Orchestration (Airflow) => in progress
+- Déploiement de projets data (Docker, Streamlit, Hugging Face, cloud – niveau junior)
+
+## Projets
+Ce GitHub regroupe des projets réalisés dans un cadre de formation et personnel, avec une orientation data engineering et déploiement de solutions data.
+
+## Me joindre :
+floriane.dussart@gmail.com
+
